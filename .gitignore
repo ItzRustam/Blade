@@ -1,0 +1,10 @@
+__pycache__/*
+*pyc 
+
+# environment
+.env
+
+
+# agent workspace
+agent_workspace/*
+
